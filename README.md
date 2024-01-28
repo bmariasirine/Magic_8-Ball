@@ -4,6 +4,8 @@
 
 The Magic 8-Ball project is a fun and engaging opportunity to practice and enhance your conditional programming skills. In this project, you will create a program that simulates the classic Magic 8-Ball toy, providing different fortunes in response to "Yes" or "No" questions.
 
+![Magic 8-Ball](magic8ball.gif)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
